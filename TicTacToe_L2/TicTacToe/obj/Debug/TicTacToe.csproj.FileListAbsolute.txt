@@ -1,0 +1,10 @@
+D:\developer С#\TicTacToe_L2\TicTacToe_L2\TicTacToe\bin\Debug\TicTacToe.exe.config
+D:\developer С#\TicTacToe_L2\TicTacToe_L2\TicTacToe\bin\Debug\TicTacToe.exe
+D:\developer С#\TicTacToe_L2\TicTacToe_L2\TicTacToe\bin\Debug\TicTacToe.pdb
+D:\developer С#\TicTacToe_L2\TicTacToe_L2\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+D:\developer С#\TicTacToe_L2\TicTacToe_L2\TicTacToe\obj\Debug\TicTacToe.FTicTacToe.resources
+D:\developer С#\TicTacToe_L2\TicTacToe_L2\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+D:\developer С#\TicTacToe_L2\TicTacToe_L2\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+D:\developer С#\TicTacToe_L2\TicTacToe_L2\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+D:\developer С#\TicTacToe_L2\TicTacToe_L2\TicTacToe\obj\Debug\TicTacToe.exe
+D:\developer С#\TicTacToe_L2\TicTacToe_L2\TicTacToe\obj\Debug\TicTacToe.pdb
